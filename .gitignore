@@ -1,1 +1,3 @@
-#something, sometime
+# ignore
+data/out/*
+.ipynb_checkpoints/*
